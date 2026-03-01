@@ -1,22 +1,25 @@
 # XIPS Currency
 
-**XIPS** is the primary in-game currency of PIXTEL. It powers the entire in-game economy — from betting on minigames to buying items in the shop.
+**XIPS** is an alternative off-chain currency to the PIXTEL token. It only exists inside the game and is currently used for minigames.
 
 ## What Are XIPS?
 
-XIPS is the virtual currency used inside PIXTEL. It's not a blockchain token — it's an in-game balance tracked on the server.
+XIPS is a virtual currency that works **entirely off-chain** — it's not a blockchain token, but an in-game balance tracked on the server.
 
-Every player starts with an initial XIPS balance and can earn more through gameplay.
+The main advantage of XIPS is that **no transaction fees are required** when using it. Since PIXTEL token transactions go through the Solana blockchain, they incur gas fees. XIPS avoids this by operating off-chain, making minigame betting instant and free of network costs.
 
-## How to Earn XIPS
+## How to Get XIPS
 
 | Method | Description |
 |--------|-------------|
+| **Swap** | Exchange PIXTEL tokens for XIPS in the in-game Swap |
 | **Win minigames** | Win Dice or Pool matches to take the pot |
-| **Swap** | Exchange PIXTEL tokens for XIPS directly in the in-game Swap |
-| **Token burning** | Burn PIXTEL tokens at the Fireplace to receive XIPS as rewards |
 
-## How to Spend XIPS
+These are the only two ways to obtain XIPS.
+
+## How XIPS Are Used
+
+XIPS are currently used exclusively for **minigame betting**:
 
 | Use | Description |
 |-----|-------------|
@@ -28,17 +31,27 @@ Your XIPS balance is displayed in the game UI at all times. It updates in real t
 
 - Win or lose a minigame
 - Swap PIXTEL tokens for XIPS
-- Receive XIPS from burning tokens
 
 ## Economy Flow
 
 ```
+PIXTEL Token ──► Swap ──► XIPS (off-chain)
+
 Player A bets 100,000 XIPS ──┐
                               ├──► Pot: 200,000 XIPS ──► Winner takes all
 Player B bets 100,000 XIPS ──┘
 ```
 
 All minigame transactions are **server-authoritative** — the backend validates every bet, deduction, and payout to prevent cheating.
+
+## XIPS vs PIXTEL Token
+
+| | XIPS | PIXTEL Token |
+|--|------|-------------|
+| **Type** | Off-chain (in-game only) | On-chain (Solana SPL token) |
+| **Transaction fees** | None | Solana network fees |
+| **Used for** | Minigame bets | Shop purchases, Fireplace, Swap |
+| **How to get** | Swap or win minigames | DEX, community events |
 
 ## Security
 
