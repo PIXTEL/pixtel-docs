@@ -8,16 +8,16 @@
 * [🎮 How to Play](getting-started/how-to-play.md)
 * [👾 Characters](getting-started/characters.md)
 
-## Minigames
-
-* [🎲 Dice](minigames/dice.md)
-* [🎱 8-Ball Pool](minigames/pool.md)
-
 ## Social
 
 * [🏠 Rooms & Hotel](social/rooms.md)
 * [💬 Friends & Chat](social/friends-and-chat.md)
 * [🪑 Furniture & Decoration](social/furniture.md)
+
+## Minigames
+
+* [🎲 Dice](minigames/dice.md)
+* [🎱 8-Ball Pool](minigames/pool.md)
 
 ## Economy
 

@@ -10,15 +10,6 @@ All of this runs directly in your web browser. No downloads, no installs.
 
 ## Core Pillars
 
-### Multiplayer Minigames
-
-PIXTEL features competitive table minigames where players bet **XIPS** (the in-game currency). Currently available:
-
-- **Dice** — 2 to 4 players, turn-based dice rolling
-- **8-Ball Pool** — 1v1 billiards with real-time physics
-
-Winners take the pot. The minigame logic runs on the server to prevent cheating.
-
 ### Social Interaction
 
 - **Real-time chat** in every room
@@ -29,6 +20,15 @@ Winners take the pot. The minigame logic runs on the server to prevent cheating.
 ### Virtual Hotel
 
 The hotel has **public community rooms** (lobby, bar, casino, gym, disco, street) and **player-created private rooms** that can be decorated with furniture from the shop.
+
+### Multiplayer Minigames
+
+PIXTEL features competitive table minigames where players bet **XIPS** (the in-game currency). Currently available:
+
+- **Dice** — 2 to 4 players, turn-based dice rolling
+- **8-Ball Pool** — 1v1 billiards with real-time physics
+
+Winners take the pot. The minigame logic runs on the server to prevent cheating.
 
 ### Crypto-Native Economy
 
