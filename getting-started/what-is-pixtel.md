@@ -32,7 +32,8 @@ The hotel has **public community rooms** (lobby, bar, casino, gym, disco, street
 
 ### Crypto-Native Economy
 
-- **XIPS** is the in-game currency used for betting, shopping, and rewards
+- **XIPS** is the off-chain currency used for minigame betting
+- **PIXTEL Token** is used for shop purchases, Fireplace burning, and Swap
 - **Phantom Wallet** integration for Solana users
 - **PIXTEL Token** holders get access to exclusive features like public room creation
 - **Fireplace burning** — burn tokens to reduce circulating supply

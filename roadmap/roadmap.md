@@ -81,9 +81,13 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 - [ ] Animated emotes / reactions
 - [ ] New minigames and casual activities
 
+### Mobile App
+- [ ] Native app for **Android** (Google Play Store)
+- [ ] Native app for **iOS** (App Store)
+- [ ] Full game experience on mobile (replacing browser-only access)
+
 ### Technical
 - [ ] Performance optimizations
-- [ ] Mobile experience improvements
 - [ ] Expanded Solana integrations
 
 ### Community
