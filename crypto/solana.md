@@ -13,7 +13,7 @@ PIXTEL is built on **Solana**, one of the fastest and lowest-cost blockchains. T
 
 ### Authentication
 
-Players can sign in using their **Phantom wallet** instead of email. This creates a crypto-native account linked to their Solana address.
+Players can sign in using their **Phantom wallet**. This creates a crypto-native account linked to their Solana address. Alternatively, players can enter as a **guest** without any wallet.
 
 ### Token Holding
 
@@ -36,16 +36,6 @@ Shop purchases are made with PIXTEL tokens through the Solana blockchain:
 - 50% of tokens are burned, 50% go to treasury
 - Item is credited after on-chain confirmation
 
-## Technical Details
-
-| Component | Detail |
-|-----------|--------|
-| Network | Solana Mainnet |
-| Wallet | Phantom (browser extension) |
-| Token Standard | SPL Token |
-| Memo Program | `MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr` |
-| Signing | TweetNaCl (Ed25519) |
-
 ## No Wallet Required
 
-PIXTEL does **not** require a crypto wallet to play. You can create a regular account with email and enjoy the full game. The Solana integration is optional and adds crypto-native features for users who want them.
+PIXTEL does **not** require a crypto wallet to play. You can play as a **guest** without any account. The Solana integration is optional and adds crypto-native features for players who connect their Phantom wallet.

@@ -3,7 +3,7 @@
 ## Getting Started
 
 1. **Open the game** — Go to [play.pixtel.fun](https://play.pixtel.fun) in your browser
-2. **Create an account** — Sign up with email or connect your Phantom wallet
+2. **Sign in** — Play as a guest or connect your Phantom wallet
 3. **Choose your character** — Pick from 27 unique pixel-art avatars
 4. **Set your nickname** — Choose a display name visible to other players
 5. **Explore** — Walk around the hotel, enter rooms, and find a table

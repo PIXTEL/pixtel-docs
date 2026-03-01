@@ -6,7 +6,7 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 
 ### Core Platform
 - [x] Browser-based WebGL game (no download required)
-- [x] Email and Phantom wallet authentication
+- [x] Guest and Phantom wallet authentication
 - [x] Character selection (27 unique pixel-art avatars)
 - [x] Customizable nicknames
 

@@ -19,7 +19,7 @@
 
 ### Sign In
 
-Your Phantom wallet serves as your identity. No email or password needed — just your wallet.
+Your Phantom wallet serves as your identity — just connect and play.
 
 ### View Balance
 
@@ -58,4 +58,4 @@ If your wallet holds **10,000+ PIXTEL tokens**, you unlock:
 
 ## Alternative: Play Without Wallet
 
-If you don't have a Phantom wallet, you can still play PIXTEL with a regular email account. You'll have access to all minigames and social features — only crypto-specific features (token burning, public room creation for holders) require a wallet.
+If you don't have a Phantom wallet, you can still play PIXTEL as a **guest**. You'll have access to all minigames and social features — only crypto-specific features (token burning, shop purchases, public room creation for holders) require a wallet.

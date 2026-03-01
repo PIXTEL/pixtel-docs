@@ -12,7 +12,6 @@ Open the Shop from the main menu. Items are organized into categories with tabs 
 
 Decorative objects for your room:
 - Tables, chairs, sofas, beds
-- Themed items (bar, casino, gym, haunted)
 - Special objects (arcade machines, pianos, jacuzzis)
 - Seasonal items (holiday specials)
 
