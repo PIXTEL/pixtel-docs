@@ -29,18 +29,19 @@ This phase is automatic — each player rolls once, and the order is set.
 
 ### 3. Main Round (Started Phase)
 
-Players take turns rolling two dice:
+Players take turns rolling two dice. The goal is to **collect every possible total from 2 to 12**:
 
 - On your turn, click the **Roll** button (or wait for auto-roll)
 - Two dice are rolled (values 1-6 each)
-- Your total (2-12) is recorded
+- If the total is a number you haven't rolled yet, it's marked on your score grid
+- If you already have that number, nothing happens
 - The turn passes to the next player
 
-Each player's results are displayed on a score grid visible to everyone at the table.
+Each player's progress is displayed on a score grid visible to everyone at the table.
 
 ### 4. Winning
 
-The player with the **highest dice total** at the end of the minigame wins the entire pot.
+The first player to **complete all numbers from 2 to 12** on their score grid wins the entire pot.
 
 ## Features
 

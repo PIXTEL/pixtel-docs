@@ -10,8 +10,8 @@ These are permanent rooms that everyone can access:
 |------|-------|-------------|
 | Street | Outdoor hub | The main entrance area, where players first arrive |
 | Lobby | Hotel lobby | Central meeting point with furniture and tables |
-| Bar | Nightlife | A social drinking spot with bar furniture |
-| Casino | Gambling | Decorated with slot machines and gaming tables |
+| Bar | Nightlife | A social spot with minigame tables (dice and pool) |
+| Casino | Gambling | Decorated with slot machines and themed furniture |
 | Gym | Fitness | Workout-themed with gym equipment |
 | Disco | Party | Dance floor with lighting effects |
 | Classroom | School | Educational theme with desks and boards |
@@ -27,7 +27,6 @@ Any player can create their own room:
 - **Name** — Give your room a custom name
 - **Visibility** — Public (anyone can join) or Private (invite only)
 - **Size** — Small, Medium, or Large (affects the floor area and maximum furniture)
-- **Icon** — Choose a theme icon for your room in the room list
 
 ### Creating a Room
 

@@ -22,15 +22,16 @@ Furniture uses a **grid-based placement system**:
 
 ## Item Categories
 
-The shop offers furniture across different themes:
+The shop offers items across these categories:
 
-- **Bar** — counters, stools, shelves, bottles
-- **Casino** — slot machines, card tables, chips
-- **Bedroom** — beds, wardrobes, nightstands
-- **Gym** — dumbbells, benches, mats
-- **Haunted** — spooky decorations, cobwebs
-- **General** — sofas, tables, chairs, plants, rugs
-- **Special** — unique items like arcade machines, pianos, guitars, jacuzzis
+- **Furniture** — sofas, tables, chairs, beds, shelves
+- **Drinks** — bottles, glasses, bar accessories
+- **Food** — plates, dishes, kitchen items
+- **Christmas Pack** — holiday-themed decorations
+- **Decoration** — plants, rugs, paintings, lamps
+- **Electronics** — arcade machines, TVs, speakers
+- **Halloween Pack** — spooky-themed decorations
+- **Rare** — exclusive and limited items
 
 ## Inventory
 

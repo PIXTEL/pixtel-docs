@@ -37,15 +37,6 @@ The hotel has **public community rooms** (lobby, bar, casino, gym, disco, street
 - **PIXTEL Token** holders get access to exclusive features like public room creation
 - **Fireplace burning** — burn tokens for special rewards
 
-## Technology
-
-| Component | Technology |
-|-----------|-----------|
-| Client | Unity WebGL (browser-based) |
-| Backend | Firebase Realtime Database + Cloud Functions |
-| Blockchain | Solana (Phantom wallet) |
-| Hosting | Cloudflare Pages |
-
 ## Who Is It For?
 
 PIXTEL is designed for anyone who enjoys social games, pixel art, and crypto communities. Whether you want to hang out and chat, compete in skill-based minigames, or participate in a token-powered economy, there's something for you.
