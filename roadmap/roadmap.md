@@ -66,8 +66,17 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 
 ## Planned
 
+### City Expansion
+- [ ] New locations to explore — Stadium, Circuit, and more
+- [ ] Driveable cars to move around the city
+- [ ] Cars available for purchase in the shop
+
+### Economy & Trading
+- [ ] Player-to-player item trading
+- [ ] More shop items and categories
+- [ ] Seasonal events and limited items
+
 ### New Content
-- [ ] Additional room themes
 - [ ] More playable characters
 - [ ] Animated emotes / reactions
 - [ ] New minigames and casual activities
