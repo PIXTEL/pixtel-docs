@@ -32,7 +32,9 @@ Players can burn PIXTEL tokens at the [Fireplace](../economy/fireplace.md) to:
 The PIXTEL token bridges the on-chain and in-game economies:
 
 ```
-PIXTEL Token (on-chain) ──► Fireplace Burn ──► XIPS (in-game) ──► Games & Shop
+PIXTEL Token ──► Fireplace ──► 100% Burned + XIPS rewards
+PIXTEL Token ──► Shop ──► 50% Burned + 50% Treasury
+PIXTEL Token ──► Swap ──► XIPS (in-game currency)
 ```
 
 ## Where to Get PIXTEL
@@ -42,11 +44,11 @@ PIXTEL Token (on-chain) ──► Fireplace Burn ──► XIPS (in-game) ──
 
 ## Supply Mechanics
 
-The Fireplace burning mechanism is **deflationary**:
-- 50% of burned tokens are permanently destroyed
-- This reduces the total circulating supply over time
+The PIXTEL token is **deflationary** through multiple mechanisms:
+- **Fireplace**: 100% of burned tokens are permanently destroyed
+- **Shop purchases**: 50% burned, 50% to treasury
 - More burns = less supply = increased scarcity
 
 ## Not Required to Play
 
-The PIXTEL token is **optional**. You can enjoy the full game — all games, social features, rooms, chat — without owning any tokens. The token adds crypto-native features for players who want deeper economic participation.
+The PIXTEL token is **optional**. You can enjoy the full game — all minigames, social features, rooms, chat — without owning any tokens. The token adds crypto-native features for players who want deeper economic participation.

@@ -16,17 +16,13 @@ To receive a **gift reward**, you need to burn at least **100,000 PIXTEL tokens*
 
 Burns below this threshold still count toward the total but won't trigger an immediate reward.
 
-## Revenue Distribution
+## 100% Burn
 
-When tokens are burned through the Fireplace:
+All tokens sent to the Fireplace are **permanently destroyed**. 100% of the burned amount is removed from circulation — nothing goes to treasury or any other wallet.
 
-| Revenue Type | Burn % | Treasury % |
-|-------------|--------|------------|
-| Item/Room purchases | 50% | 50% |
-| XIPS purchases | 0% | 100% |
-
-- **Burn** = tokens are permanently destroyed (removed from circulation)
-- **Treasury** = tokens go to the XIPS treasury for ecosystem funding
+```
+PIXTEL Tokens ──► Fireplace ──► 100% Burned (permanently destroyed)
+```
 
 ## On-Chain Verification
 
@@ -50,4 +46,4 @@ You can view your burn history through the Fireplace panel.
 
 - **Earn rewards** — gifts and special items
 - **Reduce supply** — burning removes tokens from circulation permanently
-- **Support the ecosystem** — treasury funds go toward game development and XIPS backing
+- **Deflationary** — every burn increases scarcity of the PIXTEL token

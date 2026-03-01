@@ -17,10 +17,10 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 - [x] Online presence tracking
 - [x] Player location sharing (see which room friends are in)
 
-### Games
-- [x] Dice — 2-4 player betting game
+### Minigames
+- [x] Dice — 2-4 player betting minigame
 - [x] 8-Ball Pool — 1v1 with real-time physics
-- [x] Server-authoritative game logic (anti-cheat)
+- [x] Server-authoritative minigame logic (anti-cheat)
 - [x] XIPS betting system (50K - 10M range)
 - [x] Automatic pot distribution
 - [x] Pool cue customization
@@ -34,7 +34,7 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 
 ### Economy
 - [x] XIPS in-game currency
-- [x] Shop with furniture, cues, and XIPS packages
+- [x] Shop with furniture and cues (paid with PIXTEL token)
 - [x] Inventory system
 - [x] Starter items for new players
 
@@ -48,9 +48,9 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 
 ## In Progress
 
-### More Games
-- [ ] Card games (new game type)
-- [ ] Expanded game modes
+### More Minigames
+- [ ] Card minigames (new minigame type)
+- [ ] Expanded minigame modes
 
 ### Social Expansion
 - [ ] Player profiles with stats
@@ -70,7 +70,7 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 - [ ] Additional room themes
 - [ ] More playable characters
 - [ ] Animated emotes / reactions
-- [ ] Mini-games and casual activities
+- [ ] New minigames and casual activities
 
 ### Technical
 - [ ] Performance optimizations

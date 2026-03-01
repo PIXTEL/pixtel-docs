@@ -1,6 +1,6 @@
 # 8-Ball Pool
 
-8-Ball Pool is PIXTEL's skill-based 1v1 game. A full billiards experience with real-time physics, cue customization, and competitive betting.
+8-Ball Pool is PIXTEL's skill-based 1v1 minigame. A full billiards experience with real-time physics, cue customization, and competitive betting.
 
 ## Overview
 
@@ -9,7 +9,7 @@
 | Players | 2 |
 | Turn timer | 25 seconds |
 | Bet range | 50,000 - 10,000,000 XIPS |
-| Game type | Real-time physics |
+| Type | Real-time physics |
 
 ## Rules
 
@@ -22,7 +22,7 @@ PIXTEL follows standard 8-ball pool rules:
 - **Stripes** (9-15) — the other player's group
 - **8-ball** (black) — the winning ball
 
-### Game Flow
+### Minigame Flow
 
 1. **Break** — The first player shoots to break the rack
 2. **Group assignment** — The first ball potted after the break determines each player's group (solids or stripes)
@@ -41,12 +41,12 @@ After a foul, the opponent gets **ball-in-hand** — they can place the cue ball
 ### Winning
 
 - Pot all 7 of your group balls, then pot the **8-ball**
-- If your opponent leaves the game, you win automatically
+- If your opponent leaves the minigame, you win automatically
 
 ### Losing
 
 - Potting the 8-ball before clearing all your group balls results in a loss
-- Leaving the table during a game forfeits the match
+- Leaving the table during a minigame forfeits the match
 
 ## Controls
 
@@ -73,7 +73,7 @@ When your opponent fouls:
 
 PIXTEL features a **cue rack system** with multiple pool cue designs:
 
-- Open the cue rack before or during a game
+- Open the cue rack before or during a minigame
 - Select from your owned cues
 - The default cue is free; premium cues can be purchased from the shop
 - Your cue selection is saved per account

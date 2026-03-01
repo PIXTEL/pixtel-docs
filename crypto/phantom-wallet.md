@@ -28,8 +28,9 @@ Your wallet balance (SOL + PIXTEL tokens) is displayed in the game UI. The balan
 ### Approve Transactions
 
 When you:
-- **Buy XIPS** from the shop
+- **Buy items** from the shop
 - **Burn tokens** at the Fireplace
+- **Swap tokens** for XIPS
 
 Phantom will open a popup asking you to sign the transaction. You always control what gets signed — PIXTEL never has access to your private keys.
 
@@ -57,4 +58,4 @@ If your wallet holds **10,000+ PIXTEL tokens**, you unlock:
 
 ## Alternative: Play Without Wallet
 
-If you don't have a Phantom wallet, you can still play PIXTEL with a regular email account. You'll have access to all games and social features — only crypto-specific features (token burning, public room creation for holders) require a wallet.
+If you don't have a Phantom wallet, you can still play PIXTEL with a regular email account. You'll have access to all minigames and social features — only crypto-specific features (token burning, public room creation for holders) require a wallet.

@@ -30,10 +30,11 @@ The [Fireplace](../economy/fireplace.md) feature burns PIXTEL tokens on-chain:
 
 ### Shop Purchases
 
-Premium purchases (XIPS packages) go through the Solana blockchain:
+Shop purchases are made with PIXTEL tokens through the Solana blockchain:
 - Transaction prepared by the backend
 - Signed by the player through Phantom
-- Confirmed on-chain before crediting the account
+- 50% of tokens are burned, 50% go to treasury
+- Item is credited after on-chain confirmation
 
 ## Technical Details
 

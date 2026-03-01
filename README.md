@@ -4,11 +4,11 @@
 
 ## The Social Hotel Game on Solana
 
-**PIXTEL** is a multiplayer pixel-art social game where players explore a virtual hotel, hang out in themed rooms, play competitive games, and interact with a crypto-native economy built on Solana.
+**PIXTEL** is a multiplayer pixel-art social game where players explore a virtual hotel, hang out in themed rooms, play competitive minigames, and interact with a crypto-native economy built on Solana.
 
 Think of it as a retro-styled social world where you can:
 
-- **Play games** — Challenge other players to Dice and 8-Ball Pool with real XIPS bets
+- **Play minigames** — Challenge other players to Dice and 8-Ball Pool with real XIPS bets
 - **Explore rooms** — Walk around bars, casinos, gyms, discos, and player-created spaces
 - **Socialize** — Chat, add friends, send direct messages, and customize your avatar
 - **Earn & spend** — Win XIPS through gameplay, buy items in the shop, and decorate your room
@@ -24,6 +24,6 @@ Think of it as a retro-styled social world where you can:
 
 ## How It Works
 
-PIXTEL runs entirely in your browser as a WebGL application. No downloads required. Connect your Phantom wallet or create an account to start exploring the hotel, meeting other players, and competing in games.
+PIXTEL runs entirely in your browser as a WebGL application. No downloads required. Connect your Phantom wallet or create an account to start exploring the hotel, meeting other players, and competing in minigames.
 
-The in-game currency **XIPS** powers the economy — bet on games, buy furniture, customize your cue stick, and more.
+The in-game currency **XIPS** powers the economy — bet on minigames, buy furniture, customize your cue stick, and more.

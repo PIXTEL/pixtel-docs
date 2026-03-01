@@ -57,12 +57,12 @@ PIXTEL tracks player presence in real time:
 
 - Your **online status** is visible to friends
 - Your **current scene** (which room you're in) is shared
-- Friends can see when you're in a game or exploring rooms
+- Friends can see when you're in a minigame or exploring rooms
 - Status updates automatically when you change rooms
 
 ## Nicknames
 
 - Set your nickname from the **Profile** panel
-- Nicknames are visible in chat, game tables, and the friends list
+- Nicknames are visible in chat, minigame tables, and the friends list
 - Names are validated (no special characters or inappropriate content)
 - You can change your nickname at any time

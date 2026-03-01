@@ -18,44 +18,44 @@ PIXTEL uses simple point-and-click controls:
 
 The game works on both **desktop** and **mobile** browsers.
 
-## Playing a Game
+## Playing a Minigame
 
 ### Finding a Table
 
-1. Walk to any gaming table in a room (look for tables with the game icon)
+1. Walk to any minigame table in a room (look for tables with the minigame icon)
 2. Click on the table to open the setup panel
-3. Choose the game type and set your bet amount
+3. Choose the minigame type and set your bet amount
 4. Wait for other players to join
 
 ### Joining a Table
 
 1. Walk near a table that another player has already created
-2. Click the table to see the game info
-3. Click **Join** to enter the game (your bet is deducted automatically)
-4. Wait for the host to start the game
+2. Click the table to see the minigame info
+3. Click **Join** to enter the minigame (your bet is deducted automatically)
+4. Wait for the host to start the minigame
 
 ### Betting
 
-- Every game requires a **bet** in XIPS
+- Every minigame requires a **bet** in XIPS
 - The minimum bet is **50,000 XIPS** and the maximum is **10,000,000 XIPS**
 - All bets go into a shared **pot**
-- The winner takes the entire pot at the end of the game
+- The winner takes the entire pot at the end of the minigame
 
-## Game Types
+## Minigame Types
 
-| Game | Players | Description |
-|------|---------|-------------|
+| Minigame | Players | Description |
+|----------|---------|-------------|
 | Dice | 2-4 | Turn-based dice rolling. Highest total wins. |
 | 8-Ball Pool | 2 | Classic billiards. Pot all your balls + the 8-ball to win. |
 
-See the individual game pages for detailed rules:
+See the individual minigame pages for detailed rules:
 
-- [Dice](../games/dice.md)
-- [8-Ball Pool](../games/pool.md)
+- [Dice](../minigames/dice.md)
+- [8-Ball Pool](../minigames/pool.md)
 
-## After the Game
+## After the Minigame
 
-When a game ends:
+When a minigame ends:
 
 - The **winner** receives the full pot and sees a victory screen with fireworks
 - The **loser** sees a defeat screen
@@ -65,8 +65,8 @@ Your XIPS balance updates automatically.
 
 ## Tips
 
-- **Start with low bets** while you learn the games
+- **Start with low bets** while you learn the minigames
 - **Watch other players** before joining a high-stakes table
-- **Customize your pool cue** from the cue rack before a game
+- **Customize your pool cue** from the cue rack before a minigame
 - **Add friends** to challenge them directly later
 - **Check the shop** for new items and cosmetics regularly

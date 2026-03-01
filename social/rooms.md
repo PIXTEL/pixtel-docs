@@ -61,5 +61,5 @@ As the room owner, you can:
 Each room supports:
 - **Real-time multiplayer** — see other players walking around
 - **Room chat** — public messages visible to everyone in the room
-- **Game tables** — walk up to a table to start or join a game
+- **Minigame tables** — walk up to a table to start or join a minigame
 - **Furniture interaction** — placed objects are visible to all players

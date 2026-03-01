@@ -8,10 +8,10 @@
 * [🎮 How to Play](getting-started/how-to-play.md)
 * [👾 Characters](getting-started/characters.md)
 
-## Games
+## Minigames
 
-* [🎲 Dice](games/dice.md)
-* [🎱 8-Ball Pool](games/pool.md)
+* [🎲 Dice](minigames/dice.md)
+* [🎱 8-Ball Pool](minigames/pool.md)
 
 ## Social
 

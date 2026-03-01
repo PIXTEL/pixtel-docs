@@ -41,14 +41,3 @@ PIXTEL features **27 unique pixel-art characters** that you can choose as your a
 4. Your avatar updates instantly for all players in the room
 
 Your character selection is saved to your account and persists across sessions.
-
-## Animation System
-
-Each character is rendered from a **sprite sheet** with:
-
-- **3 frames** per direction (walk cycle)
-- **4 directions** — front, back, left, right
-- Smooth frame-by-frame animation while walking
-- Idle pose when standing still
-
-All characters share the same grid-based animation system, ensuring consistent movement across the game world.

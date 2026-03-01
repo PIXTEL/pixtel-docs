@@ -1,6 +1,6 @@
 # Shop
 
-The PIXTEL Shop is where players buy items, cosmetics, and currency packages using XIPS or real money.
+The PIXTEL Shop is where players buy items and cosmetics using the **PIXTEL token**.
 
 ## Accessing the Shop
 
@@ -18,24 +18,17 @@ Decorative objects for your room:
 
 Each item has:
 - A **preview image**
-- **Price** in XIPS
+- **Price** in PIXTEL tokens
 - **Size** (grid dimensions for placement)
 - **Stock** (some items are limited)
 
 ### Pool Cues
 
-Customize your pool game with different cue designs:
+Customize your pool minigame with different cue designs:
 - The **default cue** is free for everyone
 - Premium cues are available in the shop
 - Cues are purely cosmetic — they don't affect gameplay
 - Once purchased, a cue is permanently added to your collection
-
-### XIPS Packages
-
-Buy XIPS directly:
-- Multiple package sizes available
-- Purchased with real money through the Solana integration
-- XIPS are credited instantly after purchase confirmation
 
 ### Rooms
 
@@ -45,16 +38,25 @@ Unlock room templates and special room features through the shop.
 
 1. **Browse** the shop and select an item
 2. **Click Buy** to initiate the purchase
-3. **Confirm** the transaction
+3. **Confirm** the transaction through your Phantom wallet
 4. The item is added to your **inventory** immediately
-5. Your XIPS balance updates in real time
+
+## Token Distribution on Purchases
+
+When you buy something from the shop, the PIXTEL tokens you spend are split:
+
+| Destination | % |
+|-------------|---|
+| **Burned** (permanently destroyed) | 50% |
+| **Treasury wallet** | 50% |
+
+This means every shop purchase contributes to reducing the circulating supply of PIXTEL tokens.
 
 ## Inventory
 
 After purchasing:
 - **Furniture** appears in your room decoration inventory
-- **Cues** appear in the cue rack during pool games
-- **XIPS** are added directly to your balance
+- **Cues** appear in the cue rack during pool minigames
 
 ## Duplicate Protection
 
