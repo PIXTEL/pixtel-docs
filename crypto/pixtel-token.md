@@ -23,7 +23,6 @@ Holding **10,000+ PIXTEL tokens** in your Phantom wallet unlocks:
 ### Token Burning
 
 Players can burn PIXTEL tokens at the [Fireplace](../economy/fireplace.md) to:
-- Receive **XIPS** (in-game currency) as rewards
 - Earn **special gifts** when burning above the threshold (100K tokens)
 - **Reduce circulating supply** permanently
 
@@ -32,15 +31,15 @@ Players can burn PIXTEL tokens at the [Fireplace](../economy/fireplace.md) to:
 The PIXTEL token bridges the on-chain and in-game economies:
 
 ```
-PIXTEL Token ──► Fireplace ──► 100% Burned + XIPS rewards
+PIXTEL Token ──► Fireplace ──► 100% Burned
 PIXTEL Token ──► Shop ──► 50% Burned + 50% Treasury
 PIXTEL Token ──► Swap ──► XIPS (in-game currency)
 ```
 
-## Where to Get PIXTEL
+## Where to Buy PIXTEL
 
-- **DEX** — Trade on Solana decentralized exchanges
-- **Community** — Follow announcements on [X](https://x.com/PIXTEL_fun/) and [Telegram](https://t.me/PIXTEL_fun) for distribution events
+- **[pump.fun](https://pump.fun/coin/EwMCa7DgUEGhVmFP5ubTsfSNh3sgJQA4n6dh2Apepump)** — Buy PIXTEL directly on pump.fun
+- **Community** — Follow announcements on [X](https://x.com/PIXTEL_fun/) and [Telegram](https://t.me/PIXTEL_fun) for updates
 
 ## Supply Mechanics
 

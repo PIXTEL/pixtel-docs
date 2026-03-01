@@ -1,6 +1,6 @@
 # Fireplace & Burning
 
-The **Fireplace** is a special feature in PIXTEL that lets players burn PIXTEL tokens in exchange for in-game rewards.
+The **Fireplace** is a deflationary mechanism in PIXTEL that lets players permanently destroy PIXTEL tokens, reducing the circulating supply.
 
 ## How It Works
 
@@ -8,13 +8,7 @@ The **Fireplace** is a special feature in PIXTEL that lets players burn PIXTEL t
 2. **Click** to open the burn panel
 3. **Enter the amount** of PIXTEL tokens you want to burn
 4. **Confirm** the transaction through your Phantom wallet
-5. Tokens are burned on-chain and you receive rewards
-
-## Burn Threshold
-
-To receive a **gift reward**, you need to burn at least **100,000 PIXTEL tokens** in a single transaction.
-
-Burns below this threshold still count toward the total but won't trigger an immediate reward.
+5. Tokens are burned on-chain and permanently destroyed
 
 ## 100% Burn
 
@@ -38,12 +32,10 @@ Each burn is recorded with:
 - Amount burned (in atomic units)
 - Solana transaction signature
 - Timestamp
-- Reward granted (if any)
 
 You can view your burn history through the Fireplace panel.
 
 ## Why Burn?
 
-- **Earn rewards** — gifts and special items
 - **Reduce supply** — burning removes tokens from circulation permanently
 - **Deflationary** — every burn increases scarcity of the PIXTEL token

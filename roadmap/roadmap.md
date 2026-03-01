@@ -41,7 +41,7 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 ### Crypto
 - [x] Phantom wallet integration
 - [x] PIXTEL token holder verification
-- [x] Fireplace token burning with rewards
+- [x] Fireplace token burning (deflationary mechanism)
 - [x] On-chain transaction verification
 
 ---

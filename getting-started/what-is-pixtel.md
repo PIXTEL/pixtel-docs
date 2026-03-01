@@ -35,7 +35,7 @@ The hotel has **public community rooms** (lobby, bar, casino, gym, disco, street
 - **XIPS** is the in-game currency used for betting, shopping, and rewards
 - **Phantom Wallet** integration for Solana users
 - **PIXTEL Token** holders get access to exclusive features like public room creation
-- **Fireplace burning** — burn tokens for special rewards
+- **Fireplace burning** — burn tokens to reduce circulating supply
 
 ## Who Is It For?
 
