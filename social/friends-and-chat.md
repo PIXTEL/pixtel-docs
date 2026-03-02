@@ -50,6 +50,26 @@ DM features:
 - **Unread counter** — see how many unread messages you have
 - **Conversation list** — sorted by most recent message
 - **Read receipts** — conversations are marked as read when opened
+- **End-to-end encryption** — all messages are encrypted by default
+
+### End-to-End Encryption
+
+All direct messages in PIXTEL are **end-to-end encrypted (E2E)**. This means only you and the person you're chatting with can read the messages — not even the server can see them.
+
+**How it works:**
+
+- When you log in, your device generates a unique encryption key pair
+- Your public key is shared so other players can encrypt messages for you
+- Messages are encrypted before leaving your device and decrypted only on the recipient's device
+- Messages stored on the server are unreadable ciphertext
+
+**What this means for you:**
+
+- Your private conversations stay truly private
+- No one — not even PIXTEL administrators — can read your DMs
+- Encryption happens automatically, no setup needed
+
+> **Note:** If you switch devices or clear your browser data, a new key pair is generated. Previous messages from before the switch may show as _"\[Unable to decrypt\]"_, but all new messages will work normally.
 
 ## Presence
 
