@@ -14,6 +14,7 @@ PIXTEL is under active development. Here's what's been built and what's coming n
 - [x] Real-time room chat
 - [x] Friends system (add, accept, reject, remove)
 - [x] Direct messaging (DMs)
+- [x] End-to-end encrypted DMs (E2E)
 - [x] Online presence tracking
 - [x] Player location sharing (see which room friends are in)
 
